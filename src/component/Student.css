@@ -1,0 +1,20 @@
+.flexbox {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    flex-wrap: wrap;
+    margin-left: 10%;
+}
+.cardItem > div {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    line-height: 3px;
+}
+.myButton{
+    border: 1px solid black;
+    background-color: azure;
+}
