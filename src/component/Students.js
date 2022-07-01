@@ -1,10 +1,10 @@
 import React from 'react'
 import StudentCard from './StudentCard'
 import './Student.css';
-import s1 from '../s1.png'
-import s2 from '../s2.png'
-import s3 from '../s3.png'
-import s4 from '../s4.png'
+import s1 from '../Img/s1.png'
+import s2 from '../Img/s2.png'
+import s3 from '../Img/s3.png'
+import s4 from '../Img/s4.png'
 function Students() {
     const students = [
         {
